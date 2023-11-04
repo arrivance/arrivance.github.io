@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on Bevan Philip</title>
-    <link>https://bphilip.uk/blog/</link>
-    <description>Recent content in Blog on Bevan Philip</description>
+    <title>video games on Bevan Philip</title>
+    <link>https://bphilip.uk/tags/video-games/</link>
+    <description>Recent content in video games on Bevan Philip</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Tue, 12 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://bphilip.uk/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 12 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://bphilip.uk/tags/video-games/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>NA CS is dead, but maybe it was always going to be</title>
       <link>https://bphilip.uk/blog/2023-09-12-na-cs-is-dead-but-maybe/</link>

@@ -1,23 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on Bevan Philip</title>
-    <link>https://bphilip.uk/blog/</link>
-    <description>Recent content in Blog on Bevan Philip</description>
+    <title>statistical analysis on Bevan Philip</title>
+    <link>https://bphilip.uk/tags/statistical-analysis/</link>
+    <description>Recent content in statistical analysis on Bevan Philip</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Tue, 12 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://bphilip.uk/blog/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>NA CS is dead, but maybe it was always going to be</title>
-      <link>https://bphilip.uk/blog/2023-09-12-na-cs-is-dead-but-maybe/</link>
-      <pubDate>Tue, 12 Sep 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://bphilip.uk/blog/2023-09-12-na-cs-is-dead-but-maybe/</guid>
-      <description>North American Counter-Strike is dead, or in the middle of dying.
-Team Liquid, the prototypical NA team, now fields a primarily European roster, while Cloud9&amp;rsquo;s roster is Russian. The remaining stalwarts in Complexity and EG are not competitive internationally.
-This isn&amp;rsquo;t unique to North America. This death of the national team is framed as a problem endemic to North America. But one only needs to look in Europe to see that the concept as a whole, is withering away.</description>
-    </item>
-    
+    <lastBuildDate>Tue, 30 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://bphilip.uk/tags/statistical-analysis/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>What Makes a CS:GO Major Playoff Stand Out?</title>
       <link>https://bphilip.uk/blog/2023-05-30-what-makes-a-major-standout/</link>
