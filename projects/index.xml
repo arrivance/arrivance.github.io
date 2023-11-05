@@ -1,41 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on Bevan Philip</title>
+    <title>Bevan Philip</title>
     <link>https://bphilip.uk/projects/</link>
-    <description>Recent content in Projects on Bevan Philip</description>
+    <description>Recent content Bevan Philip</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-gb</language><atom:link href="https://bphilip.uk/projects/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Bo Tree</title>
-      <link>https://bphilip.uk/projects/botree/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://bphilip.uk/projects/botree/</guid>
-      <description>Bo Tree is an Android meditation app I built for a university module (earning 95%). Having never done Android development prior, I chose to enter in the deep end by building an app with Kotlin, the Room Abstraction API and LiveViews.
-Although building an app to learn something does usually result in something slightly messy, other than in extreme workloads, the app works as expected, which was more than I expected for an initial attempt.</description>
-    </item>
-    
-    <item>
-      <title>bphilip.uk</title>
-      <link>https://bphilip.uk/projects/bphilip/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://bphilip.uk/projects/bphilip/</guid>
-      <description>Problem: This website was originally designed in 2020. I wrote about the rapid change in the JavaScript ecosystem, and that change only continues.
-Originally, this was built with Jekyll as the static site generator, Tailwind as the CSS framework, and Webpack as the bundler. Each seemed like an obvious choice at the time. While it all worked together at the time, it aged rather poorly, as it was already suffering from dependency hell, which would only become worse.</description>
-    </item>
-    
-    <item>
-      <title>telenamer</title>
-      <link>https://bphilip.uk/projects/telenamer/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://bphilip.uk/projects/telenamer/</guid>
-      <description>telenamer was an attempt to both learn Go, and to improve an earlier app that performed the same task. It works by pulling information from the file name, sending it to the TVDB API, and using the information retrieved to create a better filename.
-telenamer improved on the previous app by being
-far easier to distribute (instead of having to work with the awkward Python distribution ecosystem, I could just build an executable) far quicker due to use of Goroutines better tested due to unit testing less brittle by leveraging a library to get information from the file name, instead of using very brittle regex (the library itself does use regex, but far better tested regex).</description>
-    </item>
-    
+    <language>en-gb</language>
+    <atom:link href="https://bphilip.uk/projects/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
